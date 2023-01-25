@@ -1,6 +1,6 @@
 baseURL = 'https://noizy.blog'
 languageCode = 'en-us'
-title = 'Microsoft Security & Incident Response'
+title = 'Microsoft, Security & Threat Intelligence'
 theme = 'hugo-geekblog'
 
 
@@ -53,7 +53,7 @@ enableRobotsTXT = true
   term = ["HTML", "ATOM"]
 
 [params]
-  subtitle = "Microsoft Defender, Powershell and stuff..."
+  subtitle = "Join me on my way securing the cloud."
   description = "This is my personal blog about tech."
   keywords = []
   images = []
@@ -79,10 +79,10 @@ enableRobotsTXT = true
   geekblogAnchor = true
 
   # (Optional, default none) Sites main author.
-  geekblogAuthor = "john-doe"
+  geekblogAuthor = "johnny-three-echo"
 
   # (Optional, default posts) Set the name of the default content section.
-  geekblogContentSection = "my-pages"
+  # geekblogContentSection = "my-pages"
 
   # (Optional, default true) Enable or disable image lazy loading for images rendered
   # by the 'img' shortcode.
@@ -117,8 +117,8 @@ enableRobotsTXT = true
   # (Optional, default none) Adds a "Hosted on <provider>" line to the footer.
   # Could be used if you want to give credits to your hosting provider.
   [params.geekblogHostedOn]
-    name = "Uberspace"
-    link = "https://uberspace.de/en/"
+    name = "GitHub Pages"
+    link = "https://pages.github.com"
 
   # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
   # Could be used if you want to define a default license for your content.
