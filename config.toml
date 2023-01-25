@@ -1,6 +1,6 @@
 baseURL = 'https://noizy.blog'
 languageCode = 'en-us'
-title = 'Microsoft, Security & Threat Intelligence'
+title = 'Microsoft Security & Incident Response'
 theme = 'hugo-geekblog'
 
 
@@ -53,14 +53,14 @@ enableRobotsTXT = true
   term = ["HTML", "ATOM"]
 
 [params]
-  subtitle = "Blog about my favorite topics"
+  subtitle = "Microsoft Defender, Powershell and stuff..."
   description = "This is my personal blog about tech."
   keywords = []
   images = []
 
   # (Optional, default static/brand.svg) Set the path to a logo for the Geekblog
   # relative to your 'static/' folder.
-  logo = "logo.png"
+  logo = "logo.jpg"
 
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
   # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
