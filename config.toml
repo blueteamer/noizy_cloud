@@ -1,0 +1,4 @@
+baseURL = 'https://noizy.blog'
+languageCode = 'en-us'
+title = 'Microsoft, Security & Threat Intelligence'
+theme = 'hugo-geekblog'
