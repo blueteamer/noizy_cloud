@@ -5,6 +5,7 @@ categories:
   - "the-stuff"
 tags: 
   - "becoming-a-soc-analyst"
+draft: true
 ---
 
 Part 1 of my posts on how to become a SOC analyst from scratch. This post will cover what a SOC analyst is supposed to do.
