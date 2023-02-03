@@ -5,8 +5,7 @@ categories:
   - "the-stuff"
 tags: 
   - "linux"
-  - "terminal"
-  - "ubuntu"
+draft: true
 ---
 
 You can change the keyboard layout for Ubuntu within the terminal session via
