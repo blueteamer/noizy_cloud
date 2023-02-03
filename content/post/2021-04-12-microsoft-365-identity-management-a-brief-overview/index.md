@@ -1,18 +1,18 @@
 ---
 title: "Microsoft 365 Identity Management - A brief overview"
 date: "2021-04-12"
-categories: 
-  - "the-stuff"
 tags: 
-  - "azure"
-  - "azure-active-directory"
-  - "hybrid"
-  - "security"
+  - "identity"
+draft: true
 ---
 
 As Identity Management takes care of user accounts, permissions and machines it is a pretty sensitive topic by nature. Therefore, let's have a look at this.
 
 For Microsoft 365 we have Identy Management in two different flavours: Cloud-Only and Hybrid.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Cloud Only
 

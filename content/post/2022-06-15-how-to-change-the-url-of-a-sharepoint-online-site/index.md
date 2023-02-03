@@ -1,15 +1,15 @@
 ---
 title: "How to change the URL of a SharePoint Site"
 date: "2022-06-15"
-categories: 
-  - "the-stuff"
 tags: 
-  - "administration"
-  - "powershell"
-  - "sharepoint-online"
+  - "sharepoint"
 ---
 
 Sometimes you might feel the urge of changing the URL of an existing SharePoint Online site. Though I recommend not to do that - unless you have a good reason - here's how to do a change.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 For the sake of demonstration
 

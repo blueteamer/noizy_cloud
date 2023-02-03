@@ -1,16 +1,15 @@
 ---
 title: "How to secure your SQL Server"
 date: "2021-07-02"
-categories: 
-  - "the-stuff"
 tags: 
-  - "active-directory"
-  - "network"
-  - "security"
-  - "sql-server"
+ - "administration"
 ---
 
 SQL Server often hosts sensitive data within a company. Reasonable to have a closer look at how to keep these data safe.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Keep your server up-to-date
 

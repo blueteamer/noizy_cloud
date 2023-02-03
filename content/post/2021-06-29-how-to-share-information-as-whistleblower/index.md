@@ -1,13 +1,15 @@
 ---
 title: "How to share information whistleblower-style"
 date: "2021-06-29"
-categories: 
-  - "the-stuff"
-tags: 
-  - "good-to-know"
-  - "linux"
-  - "security"
+tags:   
+  - "privacy"
 ---
+
+Read this brief introduction in using Onion Share for private file sharing. 
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ["Pentagon Papers"](https://www.nytimes.com/interactive/2021/06/09/us/pentagon-papers-oral-history.html). The first massive "data leak" of modern times turned 50. A good opportunity to ask yourself, how would such a data leak be done today with all the digital possibility and surveillance?
 

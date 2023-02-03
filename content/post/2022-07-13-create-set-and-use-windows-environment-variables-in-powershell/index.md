@@ -1,8 +1,6 @@
 ---
 title: "Create, set and use Windows environment variables in PowerShell"
 date: "2022-07-13"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
 ---
@@ -10,6 +8,10 @@ tags:
 For several reasons - e. g. in development and infrastructure configuration - environment variables are used to have some flexibility with values in scripts.
 
 Let's see how to create new ones, set existing ones and use them in our PowerShell script.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## The example
 

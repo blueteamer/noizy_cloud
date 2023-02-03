@@ -10,6 +10,7 @@ tags:
 I recently needed some files for testing purposes and I wondered if there is a way to create such files with PowerShell.
 
 And of course, there is.
+<!--more-->
 
 ```powershell
 # Create a 1 GB test file with PowerShell 

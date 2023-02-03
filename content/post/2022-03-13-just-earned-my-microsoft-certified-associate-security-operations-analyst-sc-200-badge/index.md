@@ -1,14 +1,15 @@
 ---
 title: "Just earned my \"Microsoft Certified Associate: Security Operations Analyst (SC-200)\" badge"
 date: "2022-03-13"
-categories: 
-  - "announcements"
 tags: 
-  - "certification"
-  - "security"
+  - "learning"
 ---
 
 IT Security was always on my list of interests since I started messing around with computers. But lately I decided to focus on this topic and now I'm trying to steer my professional career in this direction, too.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ![](images/security-operations-analyst-associate-600x600-1.png)
 

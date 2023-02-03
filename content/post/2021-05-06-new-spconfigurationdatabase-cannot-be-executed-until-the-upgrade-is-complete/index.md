@@ -1,15 +1,13 @@
 ---
 title: "New-SPConfigurationDatabase cannot be executed until the upgrade is complete"
 date: "2021-05-06"
-categories: 
-  - "the-stuff"
 tags: 
-  - "administration"
-  - "powershell"
   - "sharepoint"
 ---
 
 I had a SharePoint Server that had - unexpectedly - installed several updates. After that the SharePoint farm was in a quite messy state. I was hopping from one exception to the next one while trying to fix the platform.
+
+<!--more-->
 
 At some point I decided let's start from the beginning and do a restore of the content databases.
 

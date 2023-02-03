@@ -1,12 +1,16 @@
 ---
 title: "Azure Sentinel"
 date: "2022-02-24"
-categories: 
-  - "the-stuff"
 tags: 
   - "cloud"
   - "security"
 ---
+
+A brief overview of Microsoft Sentinel. 
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 Azure Sentinel is a cloud-based "Security Information and Event Monitoring" from Microsoft.
 

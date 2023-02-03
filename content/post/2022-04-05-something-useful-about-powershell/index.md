@@ -5,6 +5,7 @@ categories:
   - "the-stuff"
 tags: 
   - "powershell"
+draft: true
 ---
 
 One thing I've learned as a developer is: You don't need to know every single property and method of a class - you only need to know where to look it up.

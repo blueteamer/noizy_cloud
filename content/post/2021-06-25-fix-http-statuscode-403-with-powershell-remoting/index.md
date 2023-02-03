@@ -1,14 +1,14 @@
 ---
 title: "Fix \"HTTP-Statuscode 403\" with PowerShell Remoting"
 date: "2021-06-25"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
-  - "troubleshooting"
 ---
 
-I had some trouble connecting via RDP to a SharePoint Server. When I tried to get access to that machine via PowerShell to restart the RDP service I received the following error.
+I had some trouble connecting via RDP to a SharePoint Server. Read alone how I solved this issue. 
+<!--more-->
+
+When I tried to get access to that machine via PowerShell to restart the RDP service I received the following error.
 
 ![](images/2021-06-24.consulting.psremotingerror.05.png)
 

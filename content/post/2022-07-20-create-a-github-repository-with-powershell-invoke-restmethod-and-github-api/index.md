@@ -1,16 +1,17 @@
 ---
 title: "Create a GitHub repository with PowerShell Invoke-RestMethod and GitHub API"
 date: "2022-07-20"
-categories: 
-  - "the-stuff"
 tags: 
-  - "git"
+  - "tools"
   - "github"
   - "powershell"
-  - "rest"
 ---
 
 Making REST calls and remotely creating a GitHub repository? I'll get you covered.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## What we will talk about
 

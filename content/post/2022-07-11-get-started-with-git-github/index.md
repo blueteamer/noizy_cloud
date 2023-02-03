@@ -1,10 +1,8 @@
 ---
 title: "Get started with Git & GitHub"
 date: "2022-07-11"
-categories: 
-  - "the-stuff"
 tags: 
-  - "git"
+  - "tools"
   - "github"
   - "powershell"
 ---

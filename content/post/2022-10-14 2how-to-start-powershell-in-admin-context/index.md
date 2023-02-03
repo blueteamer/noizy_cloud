@@ -8,8 +8,8 @@ tags:
 - powershell
 ---
 
-Sometimes we need to execute statements in PowerShell as admin.
-
+Sometimes we need to execute statements in PowerShell as admin. 
+<!--more-->
 And yes, you can right-click on the PowerShell entry, select “run as Administrator” and you’re good to go. But let’s have a look at how to do that directly from the terminal (common user context).
 
 ```powershell {style=nord}

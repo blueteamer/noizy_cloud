@@ -1,12 +1,11 @@
 ---
 title: "Starting as a SOC analyst with Microsoft Defender for Endpoint | Learning resources for beginners"
 date: "2022-09-13"
-categories: 
-  - "the-stuff"
 tags: 
   - "becoming-a-soc-analyst"
   - "mde"
   - "microsoft-defender-for-endpoint"
+draft: true
 ---
 
 In the first post I gave you some insights about my background and an outlook of what is coming in this series of "Starting as a SOC analyst with Microsoft Defender for Endpoint".

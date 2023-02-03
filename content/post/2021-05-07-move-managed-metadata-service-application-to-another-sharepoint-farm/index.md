@@ -14,6 +14,8 @@ Sometimes you need to move a SharePoint web application to another farm. Quite o
 
 So let's take a look on how to do that.
 
+<!--more-->
+
 ## The steps
 
 1. Make a backup of the service database in SSMS

@@ -1,19 +1,15 @@
 ---
-title: "How to fix \"The trust relationship between this workstation and the primary domain failed.\""
+title: "How to fix 'The trust relationship between this workstation and the primary domain failed.'"
 date: "2021-06-18"
-categories: 
-  - "the-stuff"
 tags: 
-  - "active-directory"
-  - "powershell"
-  - "troubleshooting"
+  - "administration"
 coverImage: "2021-06-18.exxeta.02.png"
 ---
 
 This error can possibly occure when a workstation has not been able to connect to the domain controller for some time.
 
 In my case this happend in my lab environment, as I haven't been using it for a while.
-
+<!--more-->
 ## Fix this issue with PowerShell
 
 I had this issue when trying to login with the domain user "blackmesa\\administrator" on my SQL server (sql.blackmesa.lab). My domain controller is named "dc.blackmesa.lab". This is relevant for the script to be used.

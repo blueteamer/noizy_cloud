@@ -1,10 +1,9 @@
 ---
 title: "Handle Windows RecycleBin with PowerShell"
 date: "2022-08-09"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
+draft: true
 ---
 
 Access to the Windows Recycle Bin via PowerShell can come in handy for a mere of situations.

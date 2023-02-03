@@ -10,6 +10,8 @@ tags:
 
 Ah... Git. The version control system that was created by Linus Torvald 'cause he had - again - beef with someone. :) Good. For. Us.
 
+<!--more-->
+
 Git can be used in many different ways. As a console application, as a stand-alone app with GUI or integrated into everyone's most appreciated IDE.
 
 Normally I use Git from Visual Studio Code or my console emulator **cmder**. cmder has git support already implemented. But when I switch to a PowerShell console... nothing.

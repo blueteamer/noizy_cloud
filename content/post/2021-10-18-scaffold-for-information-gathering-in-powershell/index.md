@@ -1,14 +1,13 @@
 ---
 title: "Scaffold for information gathering in PowerShell"
 date: "2021-10-18"
-categories: 
-  - "the-stuff"
 tags: 
-  - "powershell"
   - "sharepoint"
 ---
 
 It’s a common task to get information out of your SharePoint Server farm or SPO tenant and process the outcome in other tools or make a report out of it.
+
+<!--more-->
 
 **Note |** You will find a lot of examples of how to get information from your SharePoint farm and a huge amount of it recommend using an array to hold the data and Add-Member to but build your custom report PowerShell object. Please don’t do that. An array can be used when you have a fixed count of items. Information gathering is always a dynamic procedure where an unidentified number of items will be added to your array. Add-Member is a legacy from - I dunno - PowerShell 2.0? There are more elegant ways to add properties to a custom object in PowerShell nowadays.
 

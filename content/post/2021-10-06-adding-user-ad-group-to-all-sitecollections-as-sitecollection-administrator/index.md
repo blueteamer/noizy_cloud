@@ -1,15 +1,13 @@
 ---
 title: "Adding user/ad group to all sitecollections as sitecollection administrator"
 date: "2021-10-06"
-categories: 
-  - "the-stuff"
 tags: 
-  - "administration"
-  - "powershell"
   - "sharepoint"
 ---
 
 A typical task in reorganizing an already existing SharePoint farm is to add a specific user or AD group as a site collection administrator.
+
+<!--more-->
 
 The best way to do this is by leveraging PowerShell.
 

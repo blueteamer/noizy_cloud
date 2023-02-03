@@ -1,15 +1,15 @@
 ---
 title: "Configure RDP access for Kali Linux"
 date: "2021-03-29"
-categories: 
-  - "the-stuff"
 tags: 
-  - "kali"
-  - "linux"
-  - "rdp"
+  - "kali linux"
 ---
 
-I setup a Kali linux in my lab environment for testing and evaluation purposes. The whole test lab is running on an isolated hypervisor solution.
+When setting up Kali Linux in my lab as VM I realized that connecting to it via RDP is not that easy. Here's how to make Kali Linux cooperate and enable RDP sessions for your conveniece. 
+
+<!--more-->
+
+So, I set up a Kali linux in my lab environment for testing and evaluation purposes. The whole test lab is running on an isolated hypervisor solution.
 
 And therefore it would be nice to have the possibility to log into Kali via RDP.  
 Let's see how to do this.

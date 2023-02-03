@@ -1,17 +1,17 @@
 ---
 title: "Keep your SharePoint server clean"
 date: "2021-04-23"
-categories: 
-  - "the-stuff"
 tags: 
-  - "best-practices"
-  - "consulting"
-  - "managing-sharepoint"
+  - "sharepoint"
 ---
 
 As a consultant, it doesn't happen quite often that you come to a client and you can set up a SharePoint environment from scratch. More often you may find a more or less "OK" setup of SharePoint and network infrastructure.
 
 Therefore, here are some recommendations from my side. They are not complete and not definite - just recommendations.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Remove unused application pools and sites
 

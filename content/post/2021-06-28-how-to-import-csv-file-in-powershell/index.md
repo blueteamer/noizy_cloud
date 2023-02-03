@@ -1,13 +1,13 @@
 ---
 title: "How to import CSV file in PowerShell"
 date: "2021-06-28"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
 ---
 
 It's a common task to import values from a CSV file and process them in a PowerShell script. Here's how.
+
+<!--more-->
 
 ```powershell
 # Define the path to a user list as csv file

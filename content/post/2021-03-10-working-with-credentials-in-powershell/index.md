@@ -9,6 +9,7 @@ coverImage: "pixabay.category.administration.png"
 There are often cases with PowerShell, where you need to enter credentials of any kind. Be it while working with Microsoft 365 or any other kind of service which needs authentication.
 
 <!--more-->
+## Table of content
 {{< toc >}}
 
 With PowerShell you have several options - depending on the modules you are using.

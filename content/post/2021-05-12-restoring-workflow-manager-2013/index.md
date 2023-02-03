@@ -1,18 +1,15 @@
 ---
 title: "Restoring Workflow Manager 2013"
 date: "2021-05-12"
-categories: 
-  - "the-stuff"
 tags: 
-  - "administration"
-  - "migration"
   - "sharepoint"
-  - "workflow-manager"
 ---
 
 Believe it or not: Workflow Manager 2013 is still the recommended Workflow Engine for SharePoint On-Prem (even for SharePoint 2019). I'm no big fan of this construct for it is a quite difficult to administer piece of software.
 
 But it's part of the SharePoint ecosystem, so let's take a look at how to install it.
+
+<!--more-->
 
 _Disclaimer: There are plenty of instructions out in the web. But most of them are out-dated and the latest version of Workflow Manager components need some extra info to be stressed so everything works smoothly._
 

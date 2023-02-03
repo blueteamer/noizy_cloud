@@ -1,15 +1,17 @@
 ---
 title: "Working with branches in Git"
 date: "2022-07-18"
-categories: 
-  - "the-stuff"
 tags: 
-  - "git"
+  - "tools"
   - "github"
   - "powershell"
 ---
 
 Using branches is an important part of working with Git. In this post, we're going to have a closer look at this topic.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## What will be covered?
 

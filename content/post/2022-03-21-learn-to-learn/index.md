@@ -1,14 +1,15 @@
 ---
 title: "Learn to learn"
 date: "2022-03-21"
-categories: 
-  - "the-stuff"
 tags: 
-  - "consulting"
-  - "soft-skills"
+  - "learning"
 ---
 
 Learning new things is simply part of most professions. This is especially true in IT, where requirements and technology are constantly evolving.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 My three favorite methods for remembering what I have learned in the long term are **recalling information**, **spaced repetition** and the so-called **Feynman method**.  
 In this post, I'd like to briefly introduce these three methods.

@@ -1,14 +1,13 @@
 ---
 title: "Upgrading Kali Linux to latest version"
 date: "2021-05-14"
-categories: 
-  - "the-stuff"
 tags: 
-  - "kali"
-  - "linux"
+  - "kali linux"
 ---
 
 Had to re-install my Kali Linux machine lately. Usually after a fresh install you will have to update the packages to the latest versions.
+
+<!--more-->
 
 ## Check the source list
 

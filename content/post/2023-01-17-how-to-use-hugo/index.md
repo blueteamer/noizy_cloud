@@ -7,7 +7,7 @@ draft: true
 tags: 
 - hugo 
 ---
-
+/// This is more like a chaotic note. Needs to be re-written. Do not publish!!!!!!
 
 # How to use Hugo for blogging 
 

@@ -1,14 +1,15 @@
 ---
 title: "How to configure Metasploitable2 in Hyper-V"
 date: "2021-07-09"
-categories: 
-  - "the-stuff"
 tags: 
   - "hyper-v"
-  - "security"
 ---
 
 For a demo environment, I needed Metasploitable2 up and running on my Hyper-V host. Doing so bears some pitholes which I'd like to talk about today.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Metasploitable2 is provided as VMware image
 

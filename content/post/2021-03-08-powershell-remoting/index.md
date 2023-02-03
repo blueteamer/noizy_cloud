@@ -9,7 +9,7 @@ coverImage: "pixabay.category.administration.dark_.png"
 PS-Remoting can be used to execute PowerShell scripts from your machine on a remote computer. This comes especially in handy as soon as we are talking about administration of multiple machines within a network. Let's take a deeper look on this topic in this post. 
 
 <!--more-->
-
+## Table of content
 {{< toc >}}
 
 ## Remote Desktop vs. PowerShell Remoting

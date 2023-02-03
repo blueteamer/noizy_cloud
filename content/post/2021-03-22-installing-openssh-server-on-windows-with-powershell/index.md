@@ -1,13 +1,15 @@
 ---
 title: "Installing OpenSSH Server on Windows with PowerShell"
 date: "2021-03-22"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
 ---
 
 I'm not certainly sure if this is even necessary. But I'm pretty sure there will be a use-case for installing OpenSSH Server on a Windows machine somewhere in production.
+
+<!--more-->
+## Table of content
+{{< toc >}}
 
 In my case I needed a way to connect to my private lab server via mobile. And as there are a lot of good ssh and telnet implementation for android, I decided to go with OpenSSH server.
 

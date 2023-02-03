@@ -1,16 +1,13 @@
 ---
 title: "Migrating SharePoint from On-Prem to Online with SharePoint Migration Tool | Introduction"
 date: "2021-12-20"
-categories: 
-  - "the-stuff"
 tags: 
-  - "microsoft-365"
-  - "sharepoint-migration"
-  - "sharepoint-on-prem"
-  - "sharepoint-online"
+  - "sharepoint"
 ---
 
 Some people state that SharePoint on-prem is dead (actually not my opinion - but here we go). And in fact, a lot of customers consider using SharePoint Online instead. But how do I get all my data from my local environment to the cloud?
+
+<!--more-->
 
 ## Choose your weapon
 

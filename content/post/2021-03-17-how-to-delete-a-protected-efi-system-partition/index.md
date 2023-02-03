@@ -1,19 +1,18 @@
 ---
 title: "How to delete a protected EFI system partition"
 date: "2021-03-17"
-categories: 
-  - "the-stuff"
 tags: 
   - "administration"
-  - "diskmanagement"
 coverImage: "pixabay.category.administration.dark_.png"
 ---
 
-Lately I found a USB stick in my drawer which I once used to setup a bootable Windows 10. 
-  
-Good for me as I just needed some extra GB of storage.  
-  
-Bad for me as the bootable setup of the stick has an EFI system partition on it which I could not easily remove by using my Windows-10-Computer-Management-Storage-Disk-Management approach.
+When I found a USB stick in my drawer which I once used as bootable Windows 10 setup medium, I realized that reusing this stick will not be easy as the partitions won't let me delete them. Read on to see how I taimed that beast. 
+
+<!--more-->
+## Table of content
+{{< toc >}}
+ 
+Bad for me that the bootable setup of the stick has an EFI system partition on it which I could not easily remove by using my Windows-10-Computer-Management-Storage-Disk-Management approach.
 
 As I wanted this stick to be clean and fully usable I had to go another way.
 

@@ -1,16 +1,14 @@
 ---
 title: "How to change display resolution in Kali Linux"
 date: "2021-07-13"
-categories: 
-  - "the-stuff"
 tags: 
-  - "kali"
+  - "kali linux"
   - "linux"
 ---
 
 When I installed Kali Linux lately on Hyper-V I realized that the resolution of the RDP session (opened within Hyper-V Manager) was stuck to 1024x768. I was not able to make any - obvious - change somewhere. And to be honest: 1024x768 was just not enough for me.
 
-After some googling, I found a working solution for me [here \[1\].](#refone) Going to condense that content as follows:
+<!--more-->
 
 ## Change the resolution
 

@@ -1,11 +1,13 @@
 ---
 title: "Some useful Google operators"
 date: "2021-07-14"
-categories: 
-  - "the-stuff"
+tags: 
+  - "osint"
 ---
 
 Google provides some nice advanced stuff to make searching even more effective. Below stuff is more like a reminder for me.
+
+<!--more-->
 
 ## Conditional operators
 

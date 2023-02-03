@@ -1,11 +1,13 @@
 ---
 title: "Black screen after logging in via RDP"
 date: "2021-10-08"
-categories: 
-  - "the-stuff"
+tags: 
+- "administration"
 ---
 
 Lately, I encountered a problem while trying to log into a Windows Server 2019 via RDP. Logging in seemed to be working fine. But in the end, all I had was a black screen.
+
+<!--more-->
 
 ## First attempt
 

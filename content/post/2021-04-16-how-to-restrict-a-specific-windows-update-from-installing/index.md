@@ -1,17 +1,17 @@
 ---
 title: "How to restrict a specific Windows Update from installing"
 date: "2021-04-16"
-categories: 
-  - "the-stuff"
 tags: 
-  - "patching"
-  - "security"
-  - "windows-10"
+  - "administration"
 ---
 
 Windows 10 is pretty straight forward in terms of updates. Update is available, update will be installed.
 
 Actually, that is a really nice thing as it will lessen the number of unpatched Windows 10 systems in the wild.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 Unfortunatelly, Microsoft does not practice TDD anymore (at least it seems so). And so it's also pretty common that system or product updates can break stability or functionality.
 

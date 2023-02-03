@@ -1,15 +1,16 @@
 ---
 title: "Brief overview of markdown"
 date: "2021-03-15"
-categories: 
-  - "the-stuff"
 tags: 
-  - "markdown"
-  - "writing"
+  - "tools"
 coverImage: "pixabay.category.writing.handwithyellowpen.png"
 ---
 
-Most of you probably already had contact with it. The overall-mystic MD-Files.
+Most of you probably already had contact with it. The overall-mystic MD-Files. Let's see in this post what this is all about and why it's awesome. 
+
+<!--more-->
+## Table of content
+{{< toc >}}
 
 At least if you have been working with GitHub you have seen a **Readme.md** file. But what is that file?
 

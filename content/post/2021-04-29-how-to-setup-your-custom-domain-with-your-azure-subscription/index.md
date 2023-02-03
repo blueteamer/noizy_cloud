@@ -1,15 +1,13 @@
 ---
 title: "How to setup your custom domain for your Azure subscription"
 date: "2021-04-29"
-categories: 
-  - "the-stuff"
 tags: 
-  - "administration"
-  - "azure"
-  - "dns"
+  - "administration"  
 ---
 
 When creating an Azure Subscription in a first place you just have a non-speaking default Microsoft domain assigned to your subscription. Usually you want to have your own domain asigned to you subscription. Here's how you do that.
+
+<!--more-->
 
 ## Azure Portal
 

@@ -1,15 +1,15 @@
 ---
 title: "A brief introduction to Nmap"
 date: "2021-07-16"
-categories: 
-  - "the-stuff"
 tags: 
-  - "network"
-  - "nmap"
-  - "security"
+  - "tools"
 ---
 
 Nmap is one of the most famous - if not THE most famous - tool for network scanning. Whether you want to know if a specific host in your network is up and running or to check if a machine has specific ports open: Nmap is the tool of choice!
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 Unfortunately, Nmap is so powerful that using it is not quite intuitive. I'll try to provide a brief overview and some common statements which can be used with Nmap.
 

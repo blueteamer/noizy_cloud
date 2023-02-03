@@ -2,7 +2,7 @@
 title: "Setup cmder to start in Powershell"
 date: "2021-02-15"
 tags: 
-  - "Tools"
+  - "tools"
 coverImage: "pixabay.category.administration.png"
 ---
 

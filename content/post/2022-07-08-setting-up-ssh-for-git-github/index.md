@@ -1,15 +1,17 @@
 ---
 title: "Setting up SSH for Git & GitHub"
 date: "2022-07-08"
-categories: 
-  - "the-stuff"
 tags: 
-  - "git"
+  - "tools"
   - "github"
   - "powershell"
 ---
 
 I was explaining this quite often in the last few months to some of my fellow mates, so I decided to just write it down.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## What we will assume
 

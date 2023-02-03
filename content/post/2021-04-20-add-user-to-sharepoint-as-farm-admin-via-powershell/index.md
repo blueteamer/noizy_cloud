@@ -1,15 +1,13 @@
 ---
 title: "Add user to SharePoint as Farm Admin via PowerShell"
 date: "2021-04-20"
-categories: 
-  - "the-stuff"
 tags: 
-  - "managing-sharepoint"
-  - "powershell"
-  - "security"
+  - "sharepoint"
 ---
 
 What do you do, if you need to add a user to SharePoint as Farm Admin but you don't want to open Central Admin?
+
+<!--more-->
 
 Use SharePoint PowerShell.
 

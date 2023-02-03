@@ -1,13 +1,15 @@
 ---
 title: "Working with multiple script files in PowerShell solutions"
 date: "2022-06-30"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
 ---
 
 Many people write one single script in PowerShell, where parts of the logic are put in functions. Totaly valid. But room for improvement.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 Especially when you start to write scripts in a team, it's better to keep the logic separated in different files. In combination with a version control system, it makes modifications easier and less error-prone.
 

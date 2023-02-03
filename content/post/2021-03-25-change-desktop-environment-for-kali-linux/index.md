@@ -1,11 +1,8 @@
 ---
 title: "Change desktop environment for Kali Linux"
 date: "2021-03-25"
-categories: 
-  - "the-stuff"
 tags: 
-  - "kali"
-  - "linux"
+  - "kali linux"
 ---
 
 Today something a little bit 'off-topic'. :)
@@ -13,6 +10,10 @@ Today something a little bit 'off-topic'. :)
 Last year I had a little bit of spare time because of all this pandemic stuff. So I decided to take a look into IT security. And if your taking a look at IT security nowadays, it doesn't take long until you step over Kali Linux from Offensive Security.
 
 It's a great toolbox for doing a lot of different security related stuff. So definetly worth taking a deeper look into.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Install KDE
 

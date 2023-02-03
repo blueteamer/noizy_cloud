@@ -1,8 +1,6 @@
 ---
 title: "PowerShell Array vs. ArrayList"
 date: "2021-06-17"
-categories: 
-  - "the-stuff"
 tags: 
   - "powershell"
 ---
@@ -10,6 +8,10 @@ tags:
 Like in most programming languages we have several ways to store collections of data in a variable and do awesome stuff with them.
 
 When you're wandering through the internet in most tutorials you will see scripts use an simple array to store data. And they use it for everything.
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Powershell and Arrays
 

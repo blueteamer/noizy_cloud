@@ -1,17 +1,17 @@
 ---
 title: "How to check if your Facebook account was leaked"
 date: "2021-04-05"
-categories: 
-  - "the-stuff"
 tags: 
-  - "consulting"
-  - "security"
+  - "osint"
 ---
 
 Again a massive data leak happened leaving millions of user data exposed to criminal intentions. This time: **Facebook**.  
 Actually a company is obliged to inform any user, if they suspect that user data have been lost and are now openly accessible in the internet. But I would not count on that.
 
 So what shall I do if I think my data has gone wild?
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 ## Back to the roots
 

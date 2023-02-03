@@ -1,11 +1,10 @@
 ---
 title: "Starting as a SOC analyst with Microsoft Defender for Endpoint | Ninja Training Intermediate and Expert"
 date: "2022-09-20"
-categories: 
-  - "the-stuff"
 tags: 
   - "becoming-a-soc-analyst"
   - "mde"
+draft: true
 ---
 
 Second week in becoming a SOC analyst with Microsoft Defender for Endpoint. Let's do a quick recap.

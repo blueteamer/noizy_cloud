@@ -1,16 +1,15 @@
 ---
 title: "High CPU usage on SharePoint Server by noderunner.exe"
 date: "2022-01-14"
-categories: 
-  - "the-stuff"
 tags: 
   - "administration"
   - "powershell"
   - "sharepoint"
-  - "troubleshooting"
 ---
 
 I saw this issue for a client's SharePoint Server 2016 farm. The app server had almost all the time a CPU usage of 99%. Looking into it the root for this was a noderunner#2 process which turned out to be SharePoint Search.
+
+<!--more-->
 
 Some googling and I found the advice in a few pretty old blog posts, telling me I should follow these steps:
 

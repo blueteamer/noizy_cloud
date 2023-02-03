@@ -1,16 +1,15 @@
 ---
 title: "Changing Look & Feel of SharePoint Online"
 date: "2022-08-03"
-categories: 
-  - "the-stuff"
 tags: 
-  - "microsoft-365"
-  - "office-365"
   - "sharepoint"
-  - "sharepoint-online"
 ---
 
 Sooner or later customers want to have SharePoint Online look like everything else within their company. This means customizations of layout and colors. Or does it?
+
+<!--more-->
+## Table of content 
+{{< toc >}}
 
 In the early days customization of SharePoint's look and feel was a pain in the foot. Modifications of aspx pages, template files or weird CSS hacks were a common practice.
 

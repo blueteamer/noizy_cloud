@@ -8,8 +8,8 @@ tags:
 - linux
 ---
 
-You can change the keyboard layout for Ubuntu within the terminal session via
-
+You can change the keyboard layout for Ubuntu within the terminal session via the following statement. 
+<!--more-->
 
 
 ```bash {style=nord}

@@ -6,11 +6,11 @@ date: 2022-10-05T12:00:00+01:00
 image: /header/cyber_06.jpg
 draft: true
 tags: 
-- linux
+- "kali linux"
 ---
 
 I was re-building my lab environment when I realized that the installation of Kali Linux 2022.3 didn’t work as expected.
-
+<!--more-->
 So, what happened?
 
 In the past
