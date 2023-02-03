@@ -5,7 +5,7 @@ date: 2022-11-08T12:00:00+01:00
 image: /default-header.png
 draft: false
 tags: 
-- linux
+- "ubuntu"
 ---
 
 You can change the keyboard layout for Ubuntu within the terminal session via the following statement. 
