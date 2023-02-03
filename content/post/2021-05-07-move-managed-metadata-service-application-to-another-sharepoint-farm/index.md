@@ -1,12 +1,9 @@
 ---
 title: "Move Managed Metadata Service Application to another SharePoint Farm"
 date: "2021-05-07"
-categories: 
-  - "the-stuff"
 tags: 
   - "administration"
   - "powershell"
-  - "service-applications"
   - "sharepoint"
 ---
 

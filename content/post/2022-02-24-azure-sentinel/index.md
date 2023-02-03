@@ -2,8 +2,7 @@
 title: "Azure Sentinel"
 date: "2022-02-24"
 tags: 
-  - "cloud"
-  - "security"
+  - "learning"
 ---
 
 A brief overview of Microsoft Sentinel. 

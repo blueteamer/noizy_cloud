@@ -2,7 +2,7 @@
 title: "Check last reboot time of Windows Server"
 date: "2021-06-10"
 tags: 
-  - "troubleshooting"
+  - "administration"
 ---
 
 A few weeks ago I came to work and was told that a customer SharePoint server was not working properly. Great news to start a Monday morning.

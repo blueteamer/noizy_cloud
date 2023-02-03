@@ -2,7 +2,7 @@
 title: "Startup Script for Hyper-V VMs"
 date: "2021-02-10"
 tags: 
-- "Hyper-V"
+- "hyper-v"
 coverImage: "pixabay.category.administration.png"
 ---
 

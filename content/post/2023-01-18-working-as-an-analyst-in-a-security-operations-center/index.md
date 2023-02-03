@@ -6,7 +6,7 @@ image: /header/cyber_04.jpg
 draft: false
 tags: 
 - security
-- soc 
+- learning
 geekBlogToC: 2
 ---
 
