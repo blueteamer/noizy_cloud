@@ -7,7 +7,15 @@ draft: false
 tags: 
 - security
 - soc 
+geekBlogToC: 1
 ---
+
+In this post we will take a look at tasks and purposes of a Security Operations Center. A brief introduction. 
+
+<!--more-->
+
+{{< toc >}}
+
 
 ## What will be covered? 
 This post gives a brief overview of what a Security Operations Center (SOC) is for and what skills are helpful to start as a cyber security analyst.
