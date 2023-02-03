@@ -6,6 +6,7 @@ categories:
 tags: 
   - "kali"
   - "linux"
+draft: true
 ---
 
 Let's assume you have installed a Kali Linux machine with a hostname of "attackbox". And now you want to change it to something more - let's say - dramatic. For instance: "destroyer".
