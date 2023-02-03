@@ -3,7 +3,7 @@ title: "How to install Onion Share on Kali Linux"
 date: "2021-09-22"
 tags: 
   - "privacy"
-  - "kali linux"
+  - "kali"
 ---
 
 Just realized that Kali Linux does not come with Onion Share at its hand out of the box. How comes?

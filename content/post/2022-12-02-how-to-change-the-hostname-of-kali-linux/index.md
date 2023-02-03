@@ -5,7 +5,7 @@ date: 2022-12-02T00:00:00+01:00
 image: /default-header.png
 draft: false
 tags: 
-- linux
+- "kali"
 ---
 
 Sometimes you need to change the hostname of a linux system. Here's how to do that. 

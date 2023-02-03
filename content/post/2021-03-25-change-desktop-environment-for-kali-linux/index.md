@@ -2,7 +2,7 @@
 title: "Change desktop environment for Kali Linux"
 date: "2021-03-25"
 tags: 
-  - "kali linux"
+  - "kali"
 ---
 
 Today something a little bit 'off-topic'. :)

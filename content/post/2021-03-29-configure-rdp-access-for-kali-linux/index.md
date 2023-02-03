@@ -2,7 +2,7 @@
 title: "Configure RDP access for Kali Linux"
 date: "2021-03-29"
 tags: 
-  - "kali linux"
+  - "kali"
 ---
 
 When setting up Kali Linux in my lab as VM I realized that connecting to it via RDP is not that easy. Here's how to make Kali Linux cooperate and enable RDP sessions for your conveniece. 

@@ -2,7 +2,7 @@
 title: "How to update Kali Linux to latest version"
 date: "2021-07-12"
 tags: 
-  - "kali linux"
+  - "kali"
 ---
 
 In case you have installed Kali Linux using an older ISO, you can easily update all packages doing like this:

@@ -2,7 +2,7 @@
 title: "[Fix for Kali Linux] xRDP - Authentication is required to create a color managed device"
 date: "2021-03-31"
 tags: 
-  - "kali linux"
+  - "kali"
 ---
 
 Many Debian based Linux are using PolKit to enforce specific policies within linux. Some of these policies are extra rigid in terms of using RDP. Therefore, while using RDP you will get numerous popups asking for credentials. And this makes working remotely really annoying.
