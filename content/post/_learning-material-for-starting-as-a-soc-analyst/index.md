@@ -1,12 +1,11 @@
 ---
 title: "Learning Material for Starting as a SOC Analyst"
-description: "Overview of learning material to start as a SOC Analyst with Microsoft Defender. "
 date: 2022-10-12T12:00:00+01:00
 image: header/cyber_07.jpg
 draft: false
 tags: 
 - learning
-geekBlogToC: 1
+geekblogToC: 1
 ---
 
 This post will provide you a list of curated learning material to start as a a SOC analyst with Microsoft Defender. 
