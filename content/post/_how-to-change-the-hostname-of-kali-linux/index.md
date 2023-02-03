@@ -14,9 +14,13 @@ Sometimes you need to change the hostname of a linux system. Here's how to do th
 ## Assumptions 
 {{<columns>}}
 #### Old hostname 
+  
 attackbox 
-
+  
+<--->
+  
 #### New hostname 
+  
 thedestroyer
 {{</columns>}} 
 
