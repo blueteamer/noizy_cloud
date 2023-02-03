@@ -6,18 +6,19 @@ image: /default-header.png
 draft: false
 tags: 
 - linux
-- demo2
 ---
 
-Let’s assume you have installed a Kali Linux machine with a hostname of “attackbox”. And now you want to change it to something more – let’s say – dramatic. For instance: “thedestroyer”.
+Sometimes you need to change the hostname of a linux system. Here's how to do that. 
+<!--more-->
 
+## Assumptions 
+{{<columns>}}
+#### Old hostname 
+attackbox 
 
-|Old hostname |New hostname  |
-|---|---|
-|attackbox| thedestroyer|
- 
-
-Nothing easier than that (and we’re going to do it in a terminal session):
+#### New hostname 
+thedestroyer
+{{</columns>}} 
 
 ``` bash {style=nord}
 // Get current hostname 
