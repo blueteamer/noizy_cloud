@@ -7,7 +7,7 @@ draft: false
 tags: 
 - security
 - soc 
-geekBlogToC: 1
+geekBlogToC: 2
 ---
 
 In this post we will take a look at tasks and purposes of a Security Operations Center. A brief introduction. 
