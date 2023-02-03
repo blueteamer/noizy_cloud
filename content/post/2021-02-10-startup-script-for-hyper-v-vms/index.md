@@ -1,16 +1,16 @@
 ---
 title: "Startup Script for Hyper-V VMs"
 date: "2021-02-10"
-categories: 
-  - "the-stuff"
 tags: 
 - "Hyper-V"
 coverImage: "pixabay.category.administration.png"
 ---
 
-Having only one VM on a hypervisor is usually not that pain to turn on and off via PowerShell. This starts to be a issue as soon as we are talking about a whole network of virtual computers. Best case depending on each other. For this it is worth the time to create a PowerShell script this.
+Check out how to start up and shut down Hyper-V based VMs with a script. 
 
 <!--more-->
+
+Having only one VM on a hypervisor is usually not that pain to turn on and off via PowerShell. This starts to be a issue as soon as we are talking about a whole network of virtual computers. Best case depending on each other. For this it is worth the time to create a PowerShell script this.
 
 ![](images/ExampleNetwork-1-1024x768.jpg)
 

@@ -1,15 +1,15 @@
 ---
 title: "Working with credentials in PowerShell"
 date: "2021-03-10"
-categories: 
-  - "the-stuff"
 tags: 
-  - "consulting"
   - "powershell"
 coverImage: "pixabay.category.administration.png"
 ---
 
 There are often cases with PowerShell, where you need to enter credentials of any kind. Be it while working with Microsoft 365 or any other kind of service which needs authentication.
+
+<!--more-->
+{{< toc >}}
 
 With PowerShell you have several options - depending on the modules you are using.
 

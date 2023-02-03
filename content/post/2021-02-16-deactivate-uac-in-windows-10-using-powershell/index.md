@@ -1,13 +1,14 @@
 ---
 title: "Deactivate UAC in Windows 10 using Powershell"
 date: "2021-02-16"
-categories: 
-  - "the-stuff"
 tags: 
   - "administration"
-  - "powershell"
 coverImage: "pixabay.category.administration.dark_.png"
 ---
+
+On some occassions you might want to turn off UAC on your Windows 10 device. See here how to do that with PowerShell. 
+
+<!--more-->
 
 First of all: UAC has its purpose!
 
