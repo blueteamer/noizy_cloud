@@ -11,7 +11,7 @@ geekblogToC: 1
 This post will provide you a list of curated learning material to start as a a SOC analyst with Microsoft Defender. 
 <!--more-->
 
-{{< toc > }}
+{{< toc >}}
 
 ## Curated list of learning resources
 
