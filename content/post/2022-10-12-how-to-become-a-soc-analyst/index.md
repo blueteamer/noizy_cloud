@@ -5,6 +5,7 @@ categories:
   - "the-stuff"
 tags: 
   - "becoming-a-soc-analyst"
+draft: true
 ---
 
 Part 2 of my posts on how to become a SOC analyst. Today we'll look at some resources I used to start my learning.
