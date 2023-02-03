@@ -1,8 +1,7 @@
 ---
 title: "How to start PowerShell in admin context"
 date: "2022-10-14"
-categories: 
-  - "the-stuff"
+draft: true 
 ---
 
 Sometimes we need to execute statements in PowerShell as admin.
