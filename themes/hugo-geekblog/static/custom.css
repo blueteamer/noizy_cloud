@@ -1,1 +1,12 @@
 /* You can add custom styles here. */
+
+
+header.gblog-header {
+    justify-content: left;
+    background-image: url("/default-header.png");    
+}
+
+.gblog-brand__subtitle {    
+    font-weight: lighter;
+    justify-content: left;
+}
