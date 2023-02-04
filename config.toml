@@ -1,6 +1,6 @@
 baseURL = 'https://noizy.blog'
 languageCode = 'en-us'
-title = 'Microsoft, Security & Threat Intelligence'
+title = 'Microsoft Security & Incident Response'
 theme = 'hugo-geekblog'
 
 
@@ -53,7 +53,7 @@ enableRobotsTXT = true
   term = ["HTML", "ATOM"]
 
 [params]
-  subtitle = "Join me on my way securing the cloud."
+  subtitle = "Threat Intel, Detection & Malware Analysis"
   description = "This is my personal blog about tech."
   keywords = []
   images = []
