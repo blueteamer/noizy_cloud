@@ -56,12 +56,15 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Install PageFind
+        run: npx -y pagefind --source public --bundle-dir pagefind
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-      - name: Install PageFind
-        run: npx -y pagefind --source public --bundle-dir pagefind
+      
 
   # Deployment job
   deploy:
