@@ -5,7 +5,7 @@ theme = 'hugo-geekblog'
 
 
 
-paginate = 5
+paginate = 10
 pluralizeListTitles = false
 
 # Required to get well formatted code blocks
@@ -95,7 +95,7 @@ enableRobotsTXT = true
 
   # (Optional, default true) Enable or disable the JavaScript based color theme toggle switch. The CSS based
   # user preference mode still works.
-  # geekblogDarkModeToggle = true
+  geekblogDarkModeToggle = false
 
   # (Optional, default true) Enable or disable adding tags automatically to the main menu.
   geekblogTagsToMenu = true
