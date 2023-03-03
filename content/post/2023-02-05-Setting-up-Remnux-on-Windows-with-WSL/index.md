@@ -68,7 +68,7 @@ REMnux provides an installer on their web site.
 
 ```
 # Download REMnux Installer 
-wget https://remnux.org/remux-cli
+wget https://remnux.org/remnux-cli
 
 # rename and relocate script to bin 
 mv remnux-cli /usr/local/bin/remnux 
@@ -81,7 +81,9 @@ sudo remnux install --mode=addon
 ```
 
 ## Conclusion 
-As you can see, it is not very difficult to prepare your environment for malware analysis and forensic tasks. In some of the up-coming posts I'll show you how to use some of the tools to analyse malware and suspicious files. 
+Installing REMnux on Windows Subsystem for Linux is fairly simple and provides a huge set of tools to do forensics and malware analysis. 
+
+I'll try to write about some of those tools in future posts. In the meanwhile: Stay tuned. 
 
 So long... 
 
